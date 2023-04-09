@@ -2,3 +2,7 @@
 	path = PythonWrapper
 	url = git@github.com:sw4sys/lv-python-wrapper.git
 	branch = library
+[submodule "DateTime"]
+	path = DateTime
+	url = git@github.com:sw4sys/lv-datetime.git
+	branch = library
