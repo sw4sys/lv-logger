@@ -4,5 +4,5 @@
 	branch = library
 [submodule "DateTime"]
 	path = DateTime
-	url = git@github.com:sw4sys/lv-datetime.git
+	url = git@github.com:sw4sys/lv-date-time.git
 	branch = library
