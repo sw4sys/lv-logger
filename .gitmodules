@@ -6,3 +6,7 @@
 	path = DateTime
 	url = git@github.com:sw4sys/lv-date-time.git
 	branch = library
+[submodule "PathUtils"]
+	path = PathUtils
+	url = git@github.com:sw4sys/lv-path-utils.git
+	branch = library
