@@ -21,4 +21,5 @@
 	</Item>
 	<Item Name="Logger.lvclass" Type="LVClass" URL="../Logger/Logger.lvclass"/>
 	<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
+	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
