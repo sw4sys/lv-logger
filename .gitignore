@@ -1,5 +1,6 @@
-# Log directory
+# Logger
 Logger/Log
+Logger/Python
 
 # Libraries
 *.lvlibp
