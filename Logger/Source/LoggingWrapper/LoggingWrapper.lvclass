@@ -332,7 +332,7 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="PythonCode.vi" Type="VI" URL="../PythonCode.vi">
+	<Item Name="ModuleCode.vi" Type="VI" URL="../ModuleCode.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$W!!!!"1!%!!!!&amp;%!Q`````QJ1?82I&lt;WZ$&lt;W2F!!"#1(!!(A!!*1R-&lt;W&gt;H:8)O&lt;(:M;7)74'^H:WFO:V&gt;S98"Q:8)O&lt;(:D&lt;'&amp;T=Q!34'^H:WFO:V&gt;S98"Q:8)A&lt;X6U!!"!1(!!(A!!*1R-&lt;W&gt;H:8)O&lt;(:M;7)74'^H:WFO:V&gt;S98"Q:8)O&lt;(:D&lt;'&amp;T=Q!24'^H:WFO:V&gt;S98"Q:8)A;7Y!6!$Q!!Q!!!!!!!%!!A!!!!!!!!!!!!!!!!!!!!-#!!"Y!!!!!!!!!!!!!!E!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*!!!!!!!1!%!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -343,13 +343,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="SetDefaults.vi" Type="VI" URL="../SetDefaults.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!F$%RP:W&gt;F=CZM&gt;GRJ9B:-&lt;W&gt;H;7ZH6X*B=("F=CZM&gt;G.M98.T!"*-&lt;W&gt;H;7ZH6X*B=("F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!1%"Q!"Y!!#5-4'^H:W6S,GRW&lt;'FC&amp;ERP:W&gt;J&lt;G&gt;8=G&amp;Q='6S,GRW9WRB=X-!%5RP:W&gt;J&lt;G&gt;8=G&amp;Q='6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%*!=!!?!!!F$%RP:W&gt;F=CZM&gt;GRJ9B:-&lt;W&gt;H;7ZH6X*B=("F=CZM&gt;G.M98.T!"*-&lt;W&gt;H;7ZH6X*B=("F=C"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!1%"Q!"Y!!#5-4'^H:W6S,GRW&lt;'FC&amp;ERP:W&gt;J&lt;G&gt;8=G&amp;Q='6S,GRW9WRB=X-!%5RP:W&gt;J&lt;G&gt;8=G&amp;Q='6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#3!!!!!!%!#!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1351098896</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
